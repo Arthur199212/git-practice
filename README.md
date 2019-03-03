@@ -12,3 +12,7 @@ Someone Add New Info
 So before you need to make `git pull`.
 
 Some text
+
+aawdadawdawdawd
+
+FDSDjlsfj
